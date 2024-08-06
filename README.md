@@ -54,7 +54,7 @@ Once both the server and client are running, you will access the FIDO2 Web Appli
 ## Demo
 Watch a screen recording demo of the application in action:
 
-<img src="[https://github.com/annapinchuk/FIDO2_webapp/blob/main/images/fido2.png](https://github.com/annapinchuk/FIDO2_webapp/blob/main/Captures/demo.webm)" width="800" height="260" />
+[demo](https://github.com/annapinchuk/FIDO2_webapp/blob/main/Captures/demo.mov)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
