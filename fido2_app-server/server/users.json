@@ -18,5 +18,25 @@
         "counter": 0
       }
     ]
+  },
+  {
+    "username": "Anna Pinchuk",
+    "credentials": [
+      {
+        "credId": "WEpHOVdoZmZcTJIXnIB7M02wUkU=",
+        "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENYOpRrgvAaq5snBHnlSr9H0n6xNE\nBG1WW7ZWtTKSNM39Hobl58bRUbf2NWTJvEcqzvxWTq4sbT8XL+So7Xm22A==\n-----END PUBLIC KEY-----\n",
+        "counter": 0
+      }
+    ]
+  },
+  {
+    "username": "The Hobit",
+    "credentials": [
+      {
+        "credId": "AcpWqwTLgFZKfyTsOg/tNoCkpHPMTZa0OavkRq3OiFzy+5jckf9hLwCVjVkEib9NvkzRoCmmNJL+OyAFlqa8ZaM=",
+        "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECW5PayYRDGslfWBEckeiUpPcuaBV\nUakqxvKiDYHFr8OwKRiB4ItSYuRkGmqwpsolQI6KvsfTh9kGI3MHDss/1A==\n-----END PUBLIC KEY-----\n",
+        "counter": 1
+      }
+    ]
   }
 ]
