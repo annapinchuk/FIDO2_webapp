@@ -1,5 +1,5 @@
 # FIDO2 Web Application
-<img src="https://github.com/annapinchuk/ebpf/blob/main/images/fido2.png" width="1000" height="260" />
+<img src="https://github.com/annapinchuk/FIDO2_webapp/blob/main/images/fido2.png" width="800" height="260" />
 
 ## Overview
 The FIDO2 Web Application is a project designed to demonstrate and implement FIDO2 authentication. This repository contains both the server and client components necessary to run the application.
@@ -54,11 +54,7 @@ Once both the server and client are running, you will access the FIDO2 Web Appli
 ## Demo
 Watch a screen recording demo of the application in action:
 
-  <br />
-
-  https://github.com/annapinchuk/FIDO2_webapp/blob/main/Captures/fido2_auto.mp4.git
-
-  <br />
+[demo.mp4](https://github.com/annapinchuk/FIDO2_webapp/blob/main/Captures/fido2_auto.mp4.git)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
